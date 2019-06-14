@@ -2,6 +2,8 @@
 
 https://musicmaps.github.io/StargazinginSF/
 
+For version without the playlist, see: https://sfnaturemaps.github.io/StargazinginSF/
+
 Shows the best stargazing campsites and events in the San Francisco Bay Area with a light pollution layer that can be toggled on/off.
 
 
